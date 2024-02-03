@@ -26,3 +26,7 @@ rodapé - Contatos e endereço da loja física
 
 
 
+Design UX com paleta de cores definida 
+
+![image](https://github.com/edudias1972/UX_Designer/assets/80340034/698a1e6d-ab9a-4d08-905e-e86e3c71dc87)
+
