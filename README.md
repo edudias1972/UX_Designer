@@ -30,3 +30,7 @@ Design UX com paleta de cores definida
 
 ![image](https://github.com/edudias1972/UX_Designer/assets/80340034/698a1e6d-ab9a-4d08-905e-e86e3c71dc87)
 
+
+Design UX com paleta de cores definida
+
+![image](https://github.com/edudias1972/UX_Designer/assets/80340034/f468f830-4ab5-4d42-9701-9d4a056a16b9)
