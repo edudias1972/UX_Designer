@@ -1,29 +1,57 @@
 # UX_Designer
-UX_Desing 
-Cabeçalho
-Barra de Titulo  - navega <- -> Desfazer 
-home 
 
-Barra de menu -  navegação 
+Passo 01 criando Wireframe 
 
-Titulo - Nome da Loja 
+Wireframe 
+
+UX_Desing Cabeçalho Barra de Titulo - navega <- -> Desfazer home
+
+Barra de menu - navegação
+
+Titulo - Nome da Loja
 
 Barra de Navegação - com 3 links de paginação
 
 Barra de pesquisa - pesquisar produto
 
-Subtitulo com nome do produto 
+Subtitulo com nome do produto
 
-Imagem de do produto 
+Imagem de do produto
 
-Descrição  e preço 
+Descrição e preço
 
-Botão Comprar 
+Botão Comprar
 
 rodapé - Contatos e endereço da loja física
 
+
+
 ![image](https://github.com/edudias1972/UX_Designer/assets/80340034/78ae87e9-9b87-4439-940f-48b1b4b2b44f)
 
+
+Passo 02 - Definindo a paleta de cores 
+
+Paleta de cores 
+ 
+Terra - #c27022 
+
+Laranja - #F8932E
+
+Cinza - #979DA9
+
+Branco -  #F2F3F5
+
+Ciano -  #C9C6A1
+
+Roxo - #8b6dfa
+
+Cinza - #CEED3DC
+
+Verde - #4B9B1D
+
+Aplicando a palate de cores defínida - Design UX com paleta de cores definida 
+
+![image](https://github.com/edudias1972/UX_Designer/assets/80340034/4bae8a66-ce1d-43a9-92b0-650cad80c389)
 
 
 Design UX com paleta de cores definida 
@@ -34,3 +62,8 @@ Design UX com paleta de cores definida
 Design UX com paleta de cores definida
 
 ![image](https://github.com/edudias1972/UX_Designer/assets/80340034/f468f830-4ab5-4d42-9701-9d4a056a16b9)
+
+Escala de desenvolvimento Desing UX 
+
+![image](https://github.com/edudias1972/UX_Designer/assets/80340034/44029c6c-e595-4a1a-b5a2-d0508d2b4030)
+
