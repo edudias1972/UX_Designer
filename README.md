@@ -1,3 +1,28 @@
 # UX_Designer
 UX_Desing 
-![image](https://github.com/edudias1972/UX_Designer/assets/80340034/bc389ba3-0992-4300-b437-e8f9dd6bd143)
+Cabeçalho
+Barra de Titulo  - navega <- -> Desfazer 
+home 
+
+Barra de menu -  navegação 
+
+Titulo - Nome da Loja 
+
+Barra de Navegação - com 3 links de paginação
+
+Barra de pesquisa - pesquisar produto
+
+Subtitulo com nome do produto 
+
+Imagem de do produto 
+
+Descrição  e preço 
+
+Botão Comprar 
+
+rodapé - Contatos e endereço da loja física
+
+![image](https://github.com/edudias1972/UX_Designer/assets/80340034/78ae87e9-9b87-4439-940f-48b1b4b2b44f)
+
+
+
