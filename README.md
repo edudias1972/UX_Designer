@@ -67,4 +67,8 @@ Escala de desenvolvimento Desing UX
 
 ![image](https://github.com/edudias1972/UX_Designer/assets/80340034/44029c6c-e595-4a1a-b5a2-d0508d2b4030)
 
-MObile DESINGER - ->  FIGMA https://www.figma.com/proto/bERwXraNmCZcBQ712MMbOv/AppVendas?node-id=6-2&starting-point-node-id=6%3A2
+Mobile DESINGER - ->  FIGMA https://www.figma.com/proto/bERwXraNmCZcBQ712MMbOv/AppVendas?node-id=6-2&starting-point-node-id=6%3A2
+
+
+![image](https://github.com/edudias1972/UX_Designer/assets/80340034/f33a3d40-cb2a-4b0a-9cda-552bcd262e58)
+
